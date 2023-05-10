@@ -1,0 +1,40 @@
+13:46:22.979 [main] INFO  api.test.UserTests - *************** Creating User **********************
+13:46:26.694 [main] INFO  api.test.UserTests - *************** User is Created **********************
+13:46:26.713 [main] INFO  api.test.UserTests - *************** Reading User Info **********************
+13:46:28.159 [main] INFO  api.test.UserTests - *************** User info displayed **********************
+13:46:28.166 [main] INFO  api.test.UserTests - *************** Updating User **********************
+13:46:29.532 [main] INFO  api.test.UserTests - *************** User Updated **********************
+13:46:30.877 [main] INFO  api.test.UserTests - *************** Deleting User **********************
+13:46:32.207 [main] INFO  api.test.UserTests - *************** User Deleted **********************
+13:49:16.037 [main] INFO  api.test.UserTests - *************** Creating User **********************
+13:49:19.617 [main] INFO  api.test.UserTests - *************** User is Created **********************
+13:49:19.638 [main] INFO  api.test.UserTests - *************** Reading User Info **********************
+13:49:21.008 [main] INFO  api.test.UserTests - *************** User info displayed **********************
+13:49:21.014 [main] INFO  api.test.UserTests - *************** Updating User **********************
+13:49:22.383 [main] INFO  api.test.UserTests - *************** User Updated **********************
+13:49:23.726 [main] INFO  api.test.UserTests - *************** Deleting User **********************
+13:49:25.074 [main] INFO  api.test.UserTests - *************** User Deleted **********************
+18:06:59.883 [main] INFO  api.test.UserTests2Props - *************** Creating User **********************
+18:07:05.341 [main] INFO  api.test.UserTests2Props - *************** User is Created **********************
+18:07:05.406 [main] INFO  api.test.UserTests2Props - *************** Reading User Info **********************
+18:07:07.302 [main] INFO  api.test.UserTests2Props - *************** User info displayed **********************
+18:07:07.331 [main] INFO  api.test.UserTests2Props - *************** Updating User **********************
+18:07:09.035 [main] INFO  api.test.UserTests2Props - *************** User Updated **********************
+18:07:10.801 [main] INFO  api.test.UserTests2Props - *************** Deleting User **********************
+18:07:12.517 [main] INFO  api.test.UserTests2Props - *************** User Deleted **********************
+18:56:51.625 [main] INFO  api.test.UserTests2Props - *************** Creating User **********************
+18:56:56.553 [main] INFO  api.test.UserTests2Props - *************** User is Created **********************
+18:56:56.577 [main] INFO  api.test.UserTests2Props - *************** Reading User Info **********************
+18:56:58.274 [main] INFO  api.test.UserTests2Props - *************** User info displayed **********************
+18:56:58.280 [main] INFO  api.test.UserTests2Props - *************** Updating User **********************
+18:56:59.914 [main] INFO  api.test.UserTests2Props - *************** User Updated **********************
+18:57:01.651 [main] INFO  api.test.UserTests2Props - *************** Deleting User **********************
+18:57:03.389 [main] INFO  api.test.UserTests2Props - *************** User Deleted **********************
+19:22:01.804 [main] INFO  api.test.UserTests2Props - *************** Creating User **********************
+19:22:07.313 [main] INFO  api.test.UserTests2Props - *************** User is Created **********************
+19:22:07.359 [main] INFO  api.test.UserTests2Props - *************** Reading User Info **********************
+19:22:09.130 [main] INFO  api.test.UserTests2Props - *************** User info displayed **********************
+19:22:09.138 [main] INFO  api.test.UserTests2Props - *************** Updating User **********************
+19:22:10.866 [main] INFO  api.test.UserTests2Props - *************** User Updated **********************
+19:22:12.609 [main] INFO  api.test.UserTests2Props - *************** Deleting User **********************
+19:22:14.245 [main] INFO  api.test.UserTests2Props - *************** User Deleted **********************
